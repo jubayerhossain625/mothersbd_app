@@ -1,0 +1,150 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mothersbd"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:3:5-70
+11-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:3:22-68
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:4:5-66
+12-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:5:5-79
+13-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:5:22-76
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:6:5-79
+14-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:6:22-77
+15    <uses-permission android:name="android.permission.VIBRATE" />
+15-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:7:5-66
+15-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:7:22-63
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:8:5-80
+16-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:8:22-78
+17
+18    <application
+19        android:name="android.app.Application"
+19-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:11:9-42
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.6.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+21        android:icon="@mipmap/ic_launcher"
+21-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:12:9-43
+22        android:label="Mothers BD (Recharge)"
+22-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:10:9-46
+23        android:usesCleartextTraffic="true" >
+23-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:13:8-43
+24        <activity
+24-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:15:9-35:20
+25            android:name="com.example.mothersbd.MainActivity"
+25-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:16:13-41
+26            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+26-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:20:13-163
+27            android:exported="true"
+27-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:17:13-36
+28            android:hardwareAccelerated="true"
+28-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:21:13-47
+29            android:launchMode="singleTop"
+29-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:18:13-43
+30            android:theme="@style/LaunchTheme"
+30-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:19:13-47
+31            android:windowSoftInputMode="adjustResize" >
+31-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:22:13-55
+32
+33            <!--
+34                 Specifies an Android theme to apply to this Activity as soon as
+35                 the Android process has started. This theme is visible to the user
+36                 while the Flutter UI initializes. After that, this theme continues
+37                 to determine the Window background behind the Flutter UI.
+38            -->
+39            <meta-data
+39-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:27:13-30:17
+40                android:name="io.flutter.embedding.android.NormalTheme"
+40-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:28:15-70
+41                android:resource="@style/NormalTheme" />
+41-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:29:15-52
+42
+43            <intent-filter>
+43-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:31:13-34:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:32:17-68
+44-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:32:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:33:17-76
+46-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:33:27-74
+47            </intent-filter>
+48        </activity>
+49        <!--
+50             Don't delete the meta-data below.
+51             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+52        -->
+53        <meta-data
+53-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:38:9-40:33
+54            android:name="flutterEmbedding"
+54-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:39:13-44
+55            android:value="2" />
+55-->/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/AndroidManifest.xml:40:13-30
+56
+57        <uses-library
+57-->[androidx.window:window:1.0.0-beta04] /Users/mdjubayerhossain/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+58            android:name="androidx.window.extensions"
+58-->[androidx.window:window:1.0.0-beta04] /Users/mdjubayerhossain/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+59            android:required="false" />
+59-->[androidx.window:window:1.0.0-beta04] /Users/mdjubayerhossain/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+60        <uses-library
+60-->[androidx.window:window:1.0.0-beta04] /Users/mdjubayerhossain/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+61            android:name="androidx.window.sidecar"
+61-->[androidx.window:window:1.0.0-beta04] /Users/mdjubayerhossain/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+62            android:required="false" />
+62-->[androidx.window:window:1.0.0-beta04] /Users/mdjubayerhossain/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+63
+64        <activity
+64-->[com.google.android.gms:play-services-auth:20.5.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/2f242034b75eb25a4a42e0262b447777/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:23:9-27:75
+65            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+65-->[com.google.android.gms:play-services-auth:20.5.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/2f242034b75eb25a4a42e0262b447777/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:24:13-93
+66            android:excludeFromRecents="true"
+66-->[com.google.android.gms:play-services-auth:20.5.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/2f242034b75eb25a4a42e0262b447777/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:25:13-46
+67            android:exported="false"
+67-->[com.google.android.gms:play-services-auth:20.5.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/2f242034b75eb25a4a42e0262b447777/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:26:13-37
+68            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+68-->[com.google.android.gms:play-services-auth:20.5.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/2f242034b75eb25a4a42e0262b447777/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:27:13-72
+69        <!--
+70            Service handling Google Sign-In user revocation. For apps that do not integrate with
+71            Google Sign-In, this service will never be started.
+72        -->
+73        <service
+73-->[com.google.android.gms:play-services-auth:20.5.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/2f242034b75eb25a4a42e0262b447777/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:33:9-37:51
+74            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+74-->[com.google.android.gms:play-services-auth:20.5.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/2f242034b75eb25a4a42e0262b447777/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:34:13-89
+75            android:exported="true"
+75-->[com.google.android.gms:play-services-auth:20.5.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/2f242034b75eb25a4a42e0262b447777/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:35:13-36
+76            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+76-->[com.google.android.gms:play-services-auth:20.5.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/2f242034b75eb25a4a42e0262b447777/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:36:13-107
+77            android:visibleToInstantApps="true" />
+77-->[com.google.android.gms:play-services-auth:20.5.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/2f242034b75eb25a4a42e0262b447777/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:37:13-48
+78
+79        <activity
+79-->[com.google.android.gms:play-services-base:18.0.1] /Users/mdjubayerhossain/.gradle/caches/transforms-3/082fa8f1e076fd76c98f4d760b4e67b1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+80            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+80-->[com.google.android.gms:play-services-base:18.0.1] /Users/mdjubayerhossain/.gradle/caches/transforms-3/082fa8f1e076fd76c98f4d760b4e67b1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+81            android:exported="false"
+81-->[com.google.android.gms:play-services-base:18.0.1] /Users/mdjubayerhossain/.gradle/caches/transforms-3/082fa8f1e076fd76c98f4d760b4e67b1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+82            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+82-->[com.google.android.gms:play-services-base:18.0.1] /Users/mdjubayerhossain/.gradle/caches/transforms-3/082fa8f1e076fd76c98f4d760b4e67b1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+83
+84        <meta-data
+84-->[com.google.android.gms:play-services-basement:18.2.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/10e411e408063a3ed7eb4e7e19983f6d/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
+85            android:name="com.google.android.gms.version"
+85-->[com.google.android.gms:play-services-basement:18.2.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/10e411e408063a3ed7eb4e7e19983f6d/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
+86            android:value="@integer/google_play_services_version" />
+86-->[com.google.android.gms:play-services-basement:18.2.0] /Users/mdjubayerhossain/.gradle/caches/transforms-3/10e411e408063a3ed7eb4e7e19983f6d/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
+87    </application>
+88
+89</manifest>

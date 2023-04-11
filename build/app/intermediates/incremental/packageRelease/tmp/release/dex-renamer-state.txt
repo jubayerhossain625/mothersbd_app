@@ -1,0 +1,4 @@
+#Tue Apr 11 17:35:49 BDT 2023
+base.0=/Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

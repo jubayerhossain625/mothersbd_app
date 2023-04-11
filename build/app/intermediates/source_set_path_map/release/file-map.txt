@@ -1,0 +1,19 @@
+com.example.mothersbd.app-jetified-window-java-1.0.0-beta04-0 /Users/mdjubayerhossain/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.mothersbd.app-jetified-play-services-base-18.0.1-1 /Users/mdjubayerhossain/.gradle/caches/transforms-3/082fa8f1e076fd76c98f4d760b4e67b1/transformed/jetified-play-services-base-18.0.1/res
+com.example.mothersbd.app-jetified-play-services-basement-18.2.0-2 /Users/mdjubayerhossain/.gradle/caches/transforms-3/10e411e408063a3ed7eb4e7e19983f6d/transformed/jetified-play-services-basement-18.2.0/res
+com.example.mothersbd.app-jetified-play-services-auth-20.5.0-3 /Users/mdjubayerhossain/.gradle/caches/transforms-3/2f242034b75eb25a4a42e0262b447777/transformed/jetified-play-services-auth-20.5.0/res
+com.example.mothersbd.app-core-1.6.0-4 /Users/mdjubayerhossain/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.mothersbd.app-webkit-1.5.0-5 /Users/mdjubayerhossain/.gradle/caches/transforms-3/7a9e722f9cadd913a07709114ac94695/transformed/webkit-1.5.0/res
+com.example.mothersbd.app-jetified-annotation-experimental-1.1.0-6 /Users/mdjubayerhossain/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.mothersbd.app-jetified-window-1.0.0-beta04-7 /Users/mdjubayerhossain/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.mothersbd.app-main-8 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/main/res
+com.example.mothersbd.app-release-9 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/android/app/src/release/res
+com.example.mothersbd.app-pngs-10 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/build/app/generated/res/pngs/release
+com.example.mothersbd.app-resValues-11 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/build/app/generated/res/resValues/release
+com.example.mothersbd.app-rs-12 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/build/app/generated/res/rs/release
+com.example.mothersbd.app-mergeReleaseResources-13 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.mothersbd.app-mergeReleaseResources-14 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.mothersbd.app-merged_res-15 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/build/app/intermediates/merged_res/release
+com.example.mothersbd.app-packaged_res-16 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/build/fluttertoast/intermediates/packaged_res/release
+com.example.mothersbd.app-packaged_res-17 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/build/google_sign_in_android/intermediates/packaged_res/release
+com.example.mothersbd.app-packaged_res-18 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/mothersbd/build/webview_flutter_android/intermediates/packaged_res/release
